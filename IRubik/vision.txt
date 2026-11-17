@@ -1,1 +1,3 @@
 run: v1.5.html
+vision: v1.5.html, V1.5
+vision: v1.5b.html, V1.5 Beta
