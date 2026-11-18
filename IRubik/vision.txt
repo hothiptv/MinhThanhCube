@@ -46,7 +46,44 @@ ct: R U R' U' R U2 R' U' R U R'; R U' R' U R U2 R' U R U' R'; Right; F2L 39
 ct: R U' R' r U' r' U2 r U r'; r U' r' U2 r U r' R U R'; Left; F2L 40
 ct: r U' r' U2 r U r' R U R'; R U' R' r U' r' U2 r U r'; Left; F2L 41
 
+———F2l Advanced———
 
+ct: R' U R; R' U' R; Right; Adv F2L 1
+ct: L U' L'; L U L'; Left; Adv F2L 2
+ct: R' U' R U; U' R' U R; Right; Adv F2L 3
+ct: L U L' U'; U L U' L'; Left; Adv F2L 4
+ct: R' U R U R' U R U'; U R' U' R U' R' U' R; Right; Adv F2L 5
+ct: L U' L' U' L U' L' U; U' L U L' U L U L'; Left; Adv F2L 6
+ct: R' U' R U2 R' U2 R U'; U R' U2 R U2 R' U R; Right; Adv F2L 7
+ct: L U L' U2 L U2 L' U; U' L U2 L' U2 L U' L'; Left; Adv F2L 8
+ct: R' U R U R' U' R U'; U R' U R U' R' U' R; Right; Adv F2L 9
+ct: L U' L' U' L U L' U; U' L U' L' U L U L'; Left; Adv F2L 10
+ct: R' U' R U R' U2 R U'; U R' U2 R U' R' U R; Right; Adv F2L 11
+ct: L U L' U' L U2 L' U; U' L U2 L' U L U' L'; Left; Adv F2L 12
+ct: R' U R U' R' U2 R; R' U2 R U R' U' R; Right; Adv F2L 13
+ct: L U' L' U L U2 L'; L U2 L' U' L U L'; Left; Adv F2L 14
+ct: R' U' R U R' U2 R U; U' R' U2 R U' R' U R; Right; Adv F2L 15
+ct: L U L' U' L U2 L' U'; U L U2 L' U L U' L'; Left; Adv F2L 16
+ct: R' U' R U R' U R U2; U2 R' U' R U' R' U R; Right; Adv F2L 17
+ct: L U L' U' L U' L' U2; U2 L U L' U L U' L'; Left; Adv F2L 18
+ct: R' U' R U R' U' R; R' U R U' R' U R; Right; Adv F2L 19
+ct: L U L' U' L U L'; L U' L' U L U' L'; Left; Adv F2L 20
+ct: R' U R U' R' U R; R' U' R U R' U' R; Right; Adv F2L 21
+ct: L U' L' U L U' L'; L U L' U' L U L'; Left; Adv F2L 22
+ct: R' U' R U2 R' U' R U'; U R' U R U2 R' U R; Right; Adv F2L 23
+ct: L U L' U2 L U L' U; U' L U' L' U2 L U' L'; Left; Adv F2L 24
+ct: R' U R U2 R' U R U; U' R' U' R U2 R' U' R; Right; Adv F2L 25
+ct: L U' L' U2 L U' L' U'; U L U L' U2 L U L'; Left; Adv F2L 26
+ct: R2 U R' U R U2 R2; R2 U2 R' U' R U' R2; Right; Adv F2L 27
+ct: L2 U' L U' L' U2 L2; L2 U2 L U L' U L2; Left; Adv F2L 28
+ct: R' U' R U2 R' U' R; R' U R U2 R' U R; Right; Adv F2L 29
+ct: L U L' U2 L U L'; L U' L' U2 L U' L'; Left; Adv F2L 30
+ct: R' U' R U R' U' R U; U' R' U R U' R' U R; Right; Adv F2L 31
+ct: L U L' U' L U L' U'; U L U' L' U L U' L'; Left; Adv F2L 32
+ct: R' U R U R U R'; R U' R' U' R' U' R; Right; Adv F2L 33
+ct: L U' L' U' L' U' L; L' U L U L U L'; Left; Adv F2L 34
+ct: R U R' U' R' U R; R' U' R U R U' R'; Right; Adv F2L 35
+ct: L' U' L U L U' L'; L U L' U' L' U L; Left; Adv F2L 36
 
 
 ——Oll—-
