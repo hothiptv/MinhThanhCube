@@ -1,3 +1,45 @@
 run: v1.5.html
 vision: v1.5.html, V1.5
 vision: v1.5b.html, V1.5 Beta
+
+ct: R U R' U'; U R U' R'; Right; F2L 1
+ct: R' F R F'; F R' F' R; Left; F2L 2
+ct: F' U F; F' U' F; Left; F2L 3
+ct: R U' R'; R U R'; Right; F2L 4
+ct: R U R' U2 R U' R' U; U' R U R' U2 R U' R'; Right; F2L 5
+ct: r U' R' U' R U r' U; U' r U' R' U R U r'; Left; F2L 6
+ct: R U R' U2 R U2 R' U; U' R U2 R' U2 R U' R'; Right; F2L 7
+ct: r' U' R2 U' R2 U2 r; r' U2 R2 U R2 U r; Left; F2L 8
+ct: F' U F U' R U R' U; U' R U' R' U F' U' F; Left; F2L 9
+ct: R U' R' U' R U' R' U; U' R U R' U R U R'; Right; F2L 10
+ct: F' U F U' R U2 R' U; U' R U2 R' U F' U' F; Left; F2L 11
+ct: R' U' R2 U' R2 U2 R; R' U2 R2 U R2 U R; Right; F2L 12
+ct: R' U R U R' U' R U' y; y' U R' U R U' R' U' R; Left; F2L 13
+ct: R U' R' U' R U R' U; U' R U' R' U R U R'; Right; F2L 14
+ct: R U R' U' R' D' R U R' D R; R' D' R U' R' D R U R U' R'; Right; F2L 15
+ct: F' U F U2 R U R'; R U' R' U2 F' U' F; Left; F2L 16
+ct: R U' R' U R U2 R'; R U2 R' U' R U R'; Right; F2L 17
+ct: R' U R U' R' U2 R y; y' R' U2 R U R' U' R; Left; F2L 18
+ct: R U R' U' R U2 R' U'; U R U2 R' U R U' R'; Right; F2L 19
+ct: R' U' R U R' U2 R U y; y' U' R' U2 R U' R' U R; Left; F2L 20
+ct: R U R' U' R U' R' U2; U2 R U R' U R U' R'; Right; F2L 21
+ct: r U' r' U2 r U r'; r U' r' U2 r U r'; Left; F2L 22
+ct: R U R' U' R U R' U R U R' U'; U R U' R' U' R U' R' U R U' R'; Right; F2L 23
+ct: R U R' F R U R' U' F'; F U R U' R' F' R U' R'; Left; F2L 24
+ct: R U' R' F R' F' R U; U' R' F R F' R U R'; Right; F2L 25
+ct: R' F R F' R U R' U'; U R U' R' F R' F' R; Left; F2L 26
+ct: R U R' U' R U R'; R U' R' U R U' R'; Right; F2L 27
+ct: R' F R F' U R U' R'; R U R' U' F R' F' R; Left; F2L 28
+ct: R U R' U' F R' F' R; R' F R F' U R U' R'; Left; F2L 29
+ct: R U' R' U R U' R'; R U R' U' R U R'; Right; F2L 30
+ct: R U R' F R' F' R U; U' R' F R F' R U' R'; Left; F2L 31
+ct: R U' R' U R U' R' U R U' R'; R U R' U' R U R' U' R U R'; Right; F2L 32
+ct: R U R' U2 R U R' U; U' R U' R' U2 R U' R'; Right; F2L 33
+ct: R U' R' U2 R U' R' U'; U R U R' U2 R U R'; Right; F2L 34
+ct: F' U F U' R U' R' U; U' R U R' U F' U' F; Left; F2L 35
+ct: R U' R' U F' U F U'; U F' U' F U' R U R'; Right; F2L 36
+ct: R U' R U2 F R2 F' U2 R2; R2 U2 F R2 F' U2 R' U R'; Right; F2L 37
+ct: R U R' U2 R U' R' U R U R'; R U' R' U' R U R' U2 R U' R'; Right; F2L 38
+ct: R U R' U' R U2 R' U' R U R'; R U' R' U R U2 R' U R U' R'; Right; F2L 39
+ct: R U' R' r U' r' U2 r U r'; r U' r' U2 r U r' R U R'; Left; F2L 40
+ct: r U' r' U2 r U r' R U R'; R U' R' r U' r' U2 r U r'; Left; F2L 41
