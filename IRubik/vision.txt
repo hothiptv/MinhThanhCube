@@ -2,6 +2,8 @@ run: v1.5.html
 vision: v1.5.html, V1.5
 vision: v1.5b.html, V1.5 Beta
 
+———f2l———
+
 ct: R U R' U'; U R U' R'; Right; F2L 1
 ct: R' F R F'; F R' F' R; Left; F2L 2
 ct: F' U F; F' U' F; Left; F2L 3
@@ -43,3 +45,65 @@ ct: R U R' U2 R U' R' U R U R'; R U' R' U' R U R' U2 R U' R'; Right; F2L 38
 ct: R U R' U' R U2 R' U' R U R'; R U' R' U R U2 R' U R U' R'; Right; F2L 39
 ct: R U' R' r U' r' U2 r U r'; r U' r' U2 r U r' R U R'; Left; F2L 40
 ct: r U' r' U2 r U r' R U R'; R U' R' r U' r' U2 r U r'; Left; F2L 41
+
+
+
+
+——Oll—-
+ct oll: F R' F' R U2 F R' F' R2 U2 R'; R U2 R2 F R F' U2 R' F R F'; ; OLL 1
+ct oll: r U R' U2 R U2 r' U2 r U' r'; r U r' U2 r U2 R' U2 R U' r'; ; OLL 2
+ct oll: M U' r U2 r' U' R U' R2 r; r' R2 U R' U r U2 r' U M'; ; OLL 3
+ct oll: M R U R' U r U2 r' U M'; M U' r U2 r' U' R U' R' M'; ; OLL 4
+ct oll: l' U' L U' L' U2 l; l' U2 L U L' U l; ; OLL 5
+ct oll: r U R' U R U2 r'; r U2 R' U' R U' r'; ; OLL 6
+ct oll: r U2 R' U' R U' r'; r U R' U R U2 r'; ; OLL 7
+ct oll: l' U2 L U L' U l; l' U' L U' L' U2 l; ; OLL 8
+ct oll: F U R U' R2 F' R U R U' R'; R U R' U' R' F R2 U R' U' F'; ; OLL 9
+ct oll: R U2 R' F R' F' R U' R U' R'; R U R' U R' F R F' R U2 R'; ; OLL 10
+ct oll: r U2 R' F R' F' R U' R U' r'; r U R' U R' F R F' R U2 r'; ; OLL 11
+ct oll: r R' U R' U2 R U R' U R M; M' R' U' R U' R' U2 R U' R r'; ; OLL 12
+ct oll: R U R' U' R' F R2 U R' U' F'; F U R U' R2 F' R U R U' R'; ; OLL 13
+ct oll: F U F' R' F R U' R' F' R; R' F R U R' F' R F U' F'; ; OLL 14
+ct oll: l' U' l U' L' U L l' U l; l' U' l L' U' L U l' U l; ; OLL 15
+ct oll: r U r' U R U' R' r U' r'; r U r' R U R' U' r U' r'; ; OLL 16
+ct oll: M U R U R' U' r R2 F R F'; F R' F' R2 r' U R U' R' U' M'; ; OLL 17
+ct oll: r' U2 R U R' U r2 U2 R' U' R U' r'; r U R' U R U2 r2 U' R U' R' U2 r; ; OLL 18
+ct oll: F R' F' R M U R U' R' U' R' r; r' R U R U R' U' M' R' F R F'; ; OLL 19
+ct oll: M U R U R' U' M2 U R U' r'; r U R' U' M2 U R U' R' U' M'; ; OLL 20
+ct oll: R U R' U R U' R' U R U2 R'; R U2 R' U' R U R' U' R U' R'; ; OLL 21
+ct oll: R' U2 R2 U R2 U R2 U2 R'; R U2 R2 U' R2 U' R2 U2 R; ; OLL 22
+ct oll: R' U2 R' D' R U2 R' D R2; R2 D' R U2 R' D R U2 R; ; OLL 23
+ct oll: F R' F' r U R U' r'; r U R' U' r' F R F'; ; OLL 24
+ct oll: R' F' r U R U' r' F; F' r U R' U' r' F R; ; OLL 25
+ct oll: R U R' U R U2 R'; R U2 R' U' R U' R'; ; OLL 26
+ct oll: R U2 R' U' R U' R'; R U R' U R U2 R'; ; OLL 27
+ct oll: R U R' U' R' r U R U' r'; r U R' U' r' R U R U' R'; ; OLL 28
+ct oll: R U' R' F' U F R U R' U R U' R'; R U R' U' R U' R' F' U' F R U R'; ; OLL 29
+ct oll: F2 R U' R' U R U R2 F' R F'; F R' F R2 U' R' U' R U R' F2; ; OLL 30
+ct oll: R' F R U R' U' F' U R; R' U' F U R U' R' F' R; ; OLL 31
+ct oll: L F' L' U' L U F U' L'; L U F' U' L' U L F L'; ; OLL 32
+ct oll: F R' F' R U R U' R'; R U R' U' R' F R F'; ; OLL 33
+ct oll: F U R' U' R' F' R U R2 U' R'; R U R2 U' R' F R U R U' F'; ; OLL 34
+ct oll: R U2 R' F R' F' R2 U2 R'; R U2 R2 F R F' R U2 R'; ; OLL 35
+ct oll: F' L F L' U' L' U' L U L' U L; L' U' L U' L' U L U L F' L' F; ; OLL 36
+ct oll: R U R' U' R' F R F'; F R' F' R U R U' R'; ; OLL 37
+ct oll: F R' F' R U R U R' U' R U' R'; R U R' U R U' R' U' R' F R F'; ; OLL 38
+ct oll: L U F' U' L' U L F L'; L F' L' U' L U F U' L'; ; OLL 39
+ct oll: R' U' F U R U' R' F' R; R' F R U R' U' F' U R; ; OLL 40
+ct oll: F U R U' R' F' R U2 R' U' R U' R'; R U R' U R U2 R' F R U R' U' F'; ; OLL 41
+ct oll: F U R U' R' F' R' U2 R U R' U R; R' U' R U' R' U2 R F R U R' U' F'; ; OLL 42
+ct oll: F' L' U' L U F; F' U' L' U L F; ; OLL 43
+ct oll: F R U R' U' F'; F U R U' R' F'; ; OLL 44
+ct oll: F U R U' R' F'; F R U R' U' F'; ; OLL 45
+ct oll: R' U' F R' F' R U R; R' U' R' F R F' U R; ; OLL 46
+ct oll: R' U' F R' F' R F R' F' R U R; R' U' R' F R F' R' F R F' U R; ; OLL 47
+ct oll: F U R U' R' U R U' R' F'; F R U R' U' R U R' U' F'; ; OLL 48
+ct oll: r' U r2 U' r2 U' r2 U r'; r U' r2 U r2 U r2 U' r; ; OLL 49
+ct oll: r U' r2 U r2 U r2 U' r; r' U r2 U' r2 U' r2 U r'; ; OLL 50
+ct oll: F R U R' U' R U R' U' F'; F U R U' R' U R U' R' F'; ; OLL 51
+ct oll: R B U B' U R' U' R U' R'; R U R' U R U' B U' B' R'; ; OLL 52
+ct oll: l' U' L U' L' U L U' L' U2 l; l' U2 L U L' U' L U L' U l; ; OLL 53
+ct oll: r U R' U R U' R' U R U2 r'; r U2 R' U' R U R' U' R U' r'; ; OLL 54
+ct oll: R U' R' U' R U R2 F R2 U R' U' R' F' R; R' F R U R U' R2 F' R2 U' R' U R U R'; ; OLL 55
+ct oll: r' U' r R' U' R U R' U' R U r' U r; r' U' r U' R' U R U' R' U R r' U r; ; OLL 56
+ct oll: r U R' U' M U R U' R'; R U R' U' M' U R U' r'; ; OLL 57
